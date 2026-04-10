@@ -1,0 +1,26 @@
+"""
+Prama's OS Requirements and Dependencies
+Python 3.6+
+"""
+
+# Standard Library (built-in, no installation needed)
+# - tkinter (usually included with Python)
+# - subprocess
+# - os
+# - sys
+# - pathlib
+# - uuid
+# - threading
+# - datetime
+# - time
+
+# No external dependencies required!
+# SimplOS uses only Python standard library modules.
+
+# Installation:
+# 1. Make sure you have Python 3.6 or higher installed
+# 2. If tkinter is not included:
+#    - Windows: python -m pip install tk
+#    - Linux: sudo apt-get install python3-tk
+#    - macOS: brew install python-tk
+# 3. Run: python main.py
